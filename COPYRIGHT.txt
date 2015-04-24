@@ -1,0 +1,5 @@
+m42x Common is Copyright (c) 2013-2015 Scott A. Holdsworth
+
+We thank everyone who has been involved in this simple, but useful functions.
+
+--------------------------------------------------------------------------------
